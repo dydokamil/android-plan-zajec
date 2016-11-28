@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Plan Zajęć</string>
+    <string name="action_settings">Settings</string>
+    <string name="dodaj_zaj_cie">Dodaj zajęcie</string>
+    <string name="przedmiot">Przedmiot</string>
+    <string name="sala">Sala</string>
+    <string name="godzina_rozpoczecia">Godzina rozpoczęcia</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="zamknij">zamknij</string>
+    <string name="nazwa">Nazwa</string>
+    <string name="usu">usuń</string>
+    <string name="edytuj">Edytuj</string>
+    <string name="edytuj_pozycj">Edytuj pozycję</string>
+
+    <string-array name="dni_array">
+        <item>Poniedziałek</item>
+        <item>Wtorek</item>
+        <item>Środa</item>
+        <item>Czwartek</item>
+        <item>Piątek</item>
+        <item>Sobota</item>
+        <item>Niedziela</item>
+    </string-array>
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:stretchColumns="*">
+
+    <TableRow
+        android:layout_marginTop="10dp"
+        android:paddingBottom="5dp">
+
+        <TextView
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/dodaj_zaj_cie"
+            android:textAppearance="@style/TextAppearance.AppCompat.SearchResult.Title" />
+    </TableRow>
+
+    <EditText
+        android:id="@+id/nazwa_zajec"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:inputType="text"
+        android:text="@string/nazwa" />
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp">
+
+        <EditText
+            android:id="@+id/godzina_tf"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:focusableInTouchMode="false"
+            android:inputType="time"
+            android:text="@string/godzina_rozpoczecia" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp">
+
+        <EditText
+            android:id="@+id/sala_tf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:inputType="text"
+            android:text="@string/sala" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btn_cancel"
+            style="@style/Base.Widget.AppCompat.Button.Borderless"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_weight="1"
+            android:text="@string/zamknij"
+            android:textColor="#26A69A" />
+
+        <Button
+            android:id="@+id/button_dodaj"
+            style="@style/Base.Widget.AppCompat.Button.Borderless"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_weight="1"
+            android:text="@string/dodaj"
+            android:textColor="#26A69A" />
+    </TableRow>
+</TableLayout>

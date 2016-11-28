@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/kamil/Downloads/PlanZajec2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/kamil/Downloads/PlanZajec2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/kamil/Downloads/PlanZajec2/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/kamil/Downloads/PlanZajec2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/kamil/Downloads/PlanZajec2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/kamil/Downloads/PlanZajec2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/kamil/Downloads/PlanZajec2/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/kamil/Downloads/PlanZajec2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/kamil/AndroidStudioProjects/PlanZajec2/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/kamil/AndroidStudioProjects/PlanZajec2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/kamil/AndroidStudioProjects/Plan Zajęć/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/kamil/AndroidStudioProjects/Plan Zajęć/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/kamil/AndroidStudioProjects/PlanZajec2/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/kamil/AndroidStudioProjects/PlanZajec2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/kamil/AndroidStudioProjects/PlanZajec2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/kamil/AndroidStudioProjects/PlanZajec2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/kamil/AndroidStudioProjects/Plan Zajęć/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/kamil/AndroidStudioProjects/Plan Zajęć/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/kamil/AndroidStudioProjects/Plan Zajęć/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/kamil/AndroidStudioProjects/Plan Zajęć/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/kamil/AndroidStudioProjects/PlanZajec2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/kamil/AndroidStudioProjects/PlanZajec2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/kamil/AndroidStudioProjects/Plan Zajęć/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/kamil/AndroidStudioProjects/Plan Zajęć/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

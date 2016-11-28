@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/kamil/AndroidStudioProjects/Plan Zajęć/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/kamil/AndroidStudioProjects/Plan Zajęć/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kamil/AndroidStudioProjects/PlanZajec2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/kamil/AndroidStudioProjects/PlanZajec2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kamil/Downloads/PlanZajec2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/kamil/Downloads/PlanZajec2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

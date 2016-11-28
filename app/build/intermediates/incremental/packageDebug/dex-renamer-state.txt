@@ -1,0 +1,7 @@
+#Mon Nov 28 16:36:24 CET 2016
+base.0=/home/kamil/AndroidStudioProjects/Plan Zajęć/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_846d3f25ac4df6b3cca9e687965585da29409166
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/kamil/AndroidStudioProjects/Plan Zajęć/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_77768b6a7e8bdc19057f41b613858b0c96163d20/classes.dex
+base.1=/home/kamil/AndroidStudioProjects/Plan Zajęć/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_77768b6a7e8bdc19057f41b613858b0c96163d20
+file.0=/home/kamil/AndroidStudioProjects/Plan Zajęć/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_846d3f25ac4df6b3cca9e687965585da29409166/classes.dex
