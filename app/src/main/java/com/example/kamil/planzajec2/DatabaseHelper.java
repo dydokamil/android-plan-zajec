@@ -79,7 +79,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         Zajecie zajecie = new Zajecie(Integer.parseInt(cursor.getString(0)),
                 Integer.parseInt(cursor.getString(1)), cursor.getString(2), cursor.getString(3),
                 cursor.getString(4));
-        // return shop
+  
         cursor.close();
         return zajecie;
     }
@@ -88,7 +88,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         List<Zajecie> zajeciaList = new ArrayList<Zajecie>();
 
         String selectQuery = "SELECT * FROM " + TABLE;
-        SQLiteDatabase db = this.getWritableDatabase();
+        SQLiteDatabase db = this.getReadableDatabase();
         Cursor cursor = db.rawQuery(selectQuery, null);
 
         if (cursor.moveToFirst()) {
